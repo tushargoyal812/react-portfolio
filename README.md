@@ -1,2 +1,2 @@
-# react-profolio
+# react-protfolio
 portfolio in react
